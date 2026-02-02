@@ -1,0 +1,1 @@
+Sitemap: https://lif-geodata.github.io/LIF/sitemap.xml
