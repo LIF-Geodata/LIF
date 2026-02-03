@@ -9,7 +9,7 @@ format: html
 
 ------------------------------------------------------------------------
 
-The Laboratory of Forest Inventory (LIF) is a research unit of **GéoData Paris**, within the **French National Institute of Geographic and Forest Information (IGN)**.
+The Laboratory of Forest Inventory (LIF) is a research unit of **Géodata Paris**, within the **French National Institute of Geographic and Forest Information (IGN)**.
 
 Located in Nancy on a historic forestry and engineering campus, now part of **AgroParisTech**, LIF works at the intersection of forest science, data science, and decision support.
 
@@ -28,7 +28,7 @@ LIF is embedded in a strong academic ecosystem and collaborates closely with lea
 ::: {style="display:flex; flex-direction: column; gap: 1em;"}
 -   <a href="projects.html">Ongoing projects</a> – advancing forest inventory and data-driven forest information
 -   <a href="publications.html">Publications</a> – scientific contributions to forest information, monitoring, and remote sensing
--   <a href="about.html">Meet us</a> – history, expertise and capacity building
+-   <a href="about.html">Meet us</a> – get to know us
 -   <a href="join.html">Join us</a> – career and internship opportunities in a stimulating scientific environment
 :::
 
