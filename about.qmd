@@ -8,7 +8,7 @@ title: ""
 
 ## Mission & Vision
 
-Founded in 2013–2014, the laboratory carries out research **in support of, and driven by, the National Forest Inventory (NFI)**. Our research aims to develop robust and “smart” forest information and monitoring systems capable of capturing **ecological, climatic, and biomass- and carbon-related transitions**.
+Founded in 2013–2014, the laboratory carries out research **in support of, and driven by, the French National Forest Inventory (NFI)**. Our research aims to develop robust and “smart” forest information and monitoring systems capable of capturing **ecological, climatic, and biomass- and carbon-related transitions**.
 
 We focus on:
 
