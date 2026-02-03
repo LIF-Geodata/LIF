@@ -45,6 +45,12 @@ team <- read_csv2("data/team.csv", locale = locale(encoding = "UTF-8")) %>%
   filter(visible == TRUE) %>%
   arrange(order)
 
+team$scholar <- str_replace_all(
+  team$scholar,
+  "[\\u202A-\\u202E]",
+  ""
+)
+
 # -----------------------
 # Card renderer
 # -----------------------
