@@ -26,15 +26,18 @@ cat("
 <p><strong>Job opportunities at IGN</strong></p>
 
 <p>
-All current job offers at IGN are published on the official recruitment website:<br>
+Current job offers at IGN are published on the official recruitment website:<br>
 <a href='https://www.ign.fr/nous-rejoindre/offres-emploi' target='_blank' rel='noopener'>
 https://www.ign.fr/nous-rejoindre/offres-emploi
 </a>
 </p>
 
 <p>
-Below is a selection of <strong>job offers specifically related to our laboratory in Nancy</strong>.
-For each position, the <strong>reference number</strong> corresponds to the official listing on the IGN website.
+Below is a selection of <strong>job offers specifically related to our laboratory in Nancy</strong>. For positions recruited through IGN, the <strong>reference number</strong> corresponds to the official listing on the IGN website.
+</p>
+
+</p>
+Some positions, particularly PhD contracts, may be managed by <strong>external institutions</strong> and are therefore not listed through the IGN recruitment system. Relevant application procedures are indicated in the corresponding announcement.
 </p>
 ")
 

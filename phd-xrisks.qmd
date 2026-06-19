@@ -477,41 +477,68 @@ details[open] summary::after {
 ```{=html}
 <div class="task-grid">
 
-  <div class="task-card full-width-card pepr-card">
-    <div class="pepr-row">
-      <img src="assets/images/phd_xrisks_tmp_img/logo_pepr.png" class="pepr-logo" alt="PEPR FORESTT Logo">
-      <div class="pepr-text">
-        <div class="task-title" style="text-decoration: underline;">Co-funder</div>
-        <div class="task-desc">
-          <p><strong><a href="https://www.pepr-forestt.org/eng" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">PEPR FORESTT</a></strong> is a national research initiative funded by <a href="https://anr.fr/en/france-2030/france-2030/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">France 2030</a>. It brings together a consortium of leading French institutions, including <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">INRAE</a>, <a href="https://www.univ-pau.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Pau et des Pays de l'Adour</a>, <a href="https://www.agroparistech.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech</a>, <a href="https://www.purpan.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Ecole d'Ingénieur de Purpan</a>, <a href="https://www.univ-amu.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Aix-Marseille Université</a>, <a href="https://www.onf.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">ONF</a>, <a href="https://www.cirad.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CIRAD</a>, <a href="https://www.cnrs.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNRS</a>, <a href="https://www.ird.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">IRD</a>, <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">IGN</a>, and <a href="https://www.parcs-naturels-regionaux.fr/centre-national-de-la-propriete-forestiere-cnpf" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNPF</a>. This interdisciplinary program aims to advance our understanding, monitoring, and management of forests in the face of climate change and increasing disturbance risks.
-        </div>
-      </div>
-    </div>
-  </div>
+  <!-- <div class="task-card full-width-card pepr-card"> -->
+  <!--   <div class="pepr-row"> -->
+  <!--     <img src="assets/images/phd_xrisks_tmp_img/logo_pepr.png" class="pepr-logo" alt="PEPR FORESTT Logo"> -->
+  <!--     <div class="pepr-text"> -->
+  <!--       <div class="task-title" style="text-decoration: underline;">Co-funder</div> -->
+  <!--       <div class="task-desc"> -->
+  <!--         <p><strong><a href="https://www.pepr-forestt.org/eng" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">PEPR FORESTT</a></strong> is a national research initiative funded by <a href="https://anr.fr/en/france-2030/france-2030/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">France 2030</a>. It brings together a consortium of leading French institutions, including <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">INRAE</a>, <a href="https://www.univ-pau.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Pau et des Pays de l'Adour</a>, <a href="https://www.agroparistech.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech</a>, <a href="https://www.purpan.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Ecole d'Ingénieur de Purpan</a>, <a href="https://www.univ-amu.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Aix-Marseille Université</a>, <a href="https://www.onf.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">ONF</a>, <a href="https://www.cirad.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CIRAD</a>, <a href="https://www.cnrs.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNRS</a>, <a href="https://www.ird.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">IRD</a>, <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">IGN</a>, and <a href="https://www.parcs-naturels-regionaux.fr/centre-national-de-la-propriete-forestiere-cnpf" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNPF</a>. This interdisciplinary program aims to advance our understanding, monitoring, and management of forests in the face of climate change and increasing disturbance risks. -->
+  <!--       </div> -->
+  <!--     </div> -->
+  <!--   </div> -->
+  <!-- </div> -->
 
-  <div class="task-card">
-    <img src="assets/images/phd_xrisks_tmp_img/logo_inrae.png" class="partner-logo">
-    <div class="task-title" style="text-decoration: underline;">Coordinator institution</div>
-    <div class="task-desc">
-      The <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE)</a> coordinates the <strong><a href="https://www.pepr-forestt.fr/eng/projects/x-risks" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">X-RISKS</a></strong> project within the PEPR FORESTT programme. The project aims to study and anticipate the multiple, extreme risks threatening forests under climate change.
-    </div>
-  </div>
+  <!-- <div class="task-card"> -->
+  <!--   <img src="assets/images/phd_xrisks_tmp_img/logo_inrae.png" class="partner-logo"> -->
+  <!--   <div class="task-title" style="text-decoration: underline;">Coordinator institution</div> -->
+  <!--   <div class="task-desc"> -->
+  <!--     The <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE)</a> coordinates the <strong><a href="https://www.pepr-forestt.fr/eng/projects/x-risks" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">X-RISKS</a></strong> project within the PEPR FORESTT programme. The project aims to study and anticipate the multiple, extreme risks threatening forests under climate change. -->
+  <!--   </div> -->
+  <!-- </div> -->
 
-  <div class="task-card">
-    <img src="assets/images/phd_xrisks_tmp_img/logo_ign.png" class="partner-logo">
-    <div class="task-title" style="text-decoration: underline;">Co-funder</div>
-    <div class="task-desc">
-      The <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Institut national de l'information géographique et forestière (IGN)</a> is responsible for the French National Forest Inventory. It produces high-resolution forest monitoring outputs by integrating field surveys with geospatial data.
-    </div>
+<!-- IGN -->
+<div class="task-card">
+  <img src="assets/images/phd_xrisks_tmp_img/logo_ign.png" class="partner-logo" alt="IGN Logo">
+  <div class="task-title" style="text-decoration: underline;">Funder</div>
+  <div class="task-desc">
+    <p>The <strong><a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Institut national de l'information géographique et forestière (IGN)</a></strong> is a French public establishment under the joint authority of the Ministries of Ecology and Forestry. As the national reference operator for geographic and forest information, IGN produces, qualifies, and disseminates the sovereign geospatial and forest data that underpin public policy, including responsibility for the French National Forest Inventory.</p>
   </div>
+</div>
 
-  <div class="task-card">
-    <img src="assets/images/phd_xrisks_tmp_img/logo_ul.png" class="partner-logo">
-    <div class="task-title" style="text-decoration: underline;">Degree awarding institution</div>
-    <div class="task-desc">
-      The candidate will be enrolled in the <a href="https://doctorat.univ-lorraine.fr/en/doctoral-schools/sirena" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">SIReNa doctoral school (Sciences et Ingénierie des Ressources Naturelles)</a>, bringing together laboratories from <a href="https://www.univ-lorraine.fr/en/univ-lorraine/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Lorraine</a>, <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">INRAE</a>, <a href="https://www.cnrs.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNRS</a>, and <a href="https://www.agroparistech.fr/en" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech.</a>
-    </div>
+<!-- LIF -->
+<div class="task-card">
+  <img src="assets/images/phd_xrisks_tmp_img/logo_lif_transp.png" class="partner-logo" alt="LIF Logo">
+  <div class="task-title" style="text-decoration: underline;">Host laboratory</div>
+  <div class="task-desc">
+    <p>The <strong><a href="https://lif-geodata.github.io/LIF/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Laboratory of Forest Inventory (LIF)</a></strong> is a research unit of <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">IGN</a>. Based in Nancy on a historic forestry and engineering campus now part of <a href="https://www.agroparistech.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech</a>, LIF combines forest inventory field observations, remote sensing, and statistical modelling to develop innovative methods supporting sustainable forest management, environmental monitoring, and responses to ecological and climate transitions.
   </div>
+</div>
+
+<!-- Université de Lorraine -->
+<div class="task-card">
+  <img src="assets/images/phd_xrisks_tmp_img/logo_ul.png" class="partner-logo" alt="Université de Lorraine Logo">
+  <div class="task-title" style="text-decoration: underline;">Degree awarding institution</div>
+  <div class="task-desc">
+    <p>The candidate will be enrolled at <strong><a href="https://www.univ-lorraine.fr/en/univ-lorraine/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Lorraine</a></strong> within the <a href="https://doctorat.univ-lorraine.fr/en/doctoral-schools/sirena" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">SIReNa doctoral school (Sciences et Ingénierie des Ressources Naturelles)</a>, which brings together laboratories from <a href="https://www.univ-lorraine.fr/en/univ-lorraine/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Lorraine</a>, <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">INRAE</a>, <a href="https://www.cnrs.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNRS</a>, and <a href="https://www.agroparistech.fr/en" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech</a>.</p>
+  </div>
+</div>
+
+  <!-- <div class="task-card"> -->
+  <!--   <img src="assets/images/phd_xrisks_tmp_img/logo_ign.png" class="partner-logo"> -->
+  <!--   <div class="task-title" style="text-decoration: underline;">Funder</div> -->
+  <!--   <div class="task-desc"> -->
+  <!--     The <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Institut national de l'information géographique et forestière (IGN)</a> is responsible for the French National Forest Inventory. It produces high-resolution forest monitoring outputs by integrating field surveys with geospatial data. -->
+  <!--   </div> -->
+  <!-- </div> -->
+
+  <!-- <div class="task-card"> -->
+  <!--   <img src="assets/images/phd_xrisks_tmp_img/logo_ul.png" class="partner-logo"> -->
+  <!--   <div class="task-title" style="text-decoration: underline;">Degree awarding institution</div> -->
+  <!--   <div class="task-desc"> -->
+  <!--     The candidate will be enrolled in the <a href="https://doctorat.univ-lorraine.fr/en/doctoral-schools/sirena" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">SIReNa doctoral school (Sciences et Ingénierie des Ressources Naturelles)</a>, bringing together laboratories from <a href="https://www.univ-lorraine.fr/en/univ-lorraine/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Université de Lorraine</a>, <a href="https://www.inrae.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">INRAE</a>, <a href="https://www.cnrs.fr/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">CNRS</a>, and <a href="https://www.agroparistech.fr/en" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">AgroParisTech.</a> -->
+  <!--   </div> -->
+  <!-- </div> -->
 
 </div>
 ```
@@ -669,13 +696,13 @@ Beyond sample size, the efficiency of these methods is strictly tied to the qual
 ```{=html}
 <div class="fig-row">
   <div class="fig-col">
-    <img src="assets/images/phd_xrisks_tmp_img/RE.png" alt="Model assisted efficiency">
+    <img src="assets/images/phd_xrisks_tmp_img/RE2.png" alt="Model assisted efficiency">
   </div>
 </div>
 ```
 
 ::: fig-caption
-Fig. 4 — Relative efficiency of model-assisted estimators. The curves illustrate the sensitivity of precision gains to the correlation ($R^2$) between auxiliary predictors and ground observations. In practice, weak or misaligned auxiliary data leads to a rapid loss of efficiency, necessitating a transition toward small area estimation techniques.
+Fig. 4 — Relative efficiency of model-assisted estimation compared to increasing the effective sample size. The curves illustrate the sensitivity of precision gains to the correlation ($R^2$) between auxiliary predictors and ground observations. Tripling the effective sample size is mathematically equivalent to employing a model-assisted technique with an R² of 0.67.
 :::
 ::::
 
@@ -683,7 +710,7 @@ This is the **small area problem**: a survey design that is robust at the nation
 
 **Borrowing strength with Bayesian small area estimation**
 
-When only 2–3 plots fall within a critical area—a common occurrence in localized forest disturbances—even model-assisted estimators fail to produce stable estimates. This is the hallmark of the small area problem, requiring a strategy that "borrows strength" from other locations and points in time. The Fay–Herriot model provides this framework by linking noisy direct estimates to auxiliary data through a hierarchical structure. Areas with sparse data are informed by the global trend and neighboring units, while sample-rich areas remain driven by their own observations.
+When only a handful of plots fall within a critical area—a common occurrence in localized forest disturbances—even model-assisted estimators fail to produce stable estimates. This is the hallmark of the small area problem, requiring a strategy that "borrows strength" from other locations and points in time. The Fay–Herriot model provides this framework by linking noisy direct estimates to auxiliary data through a hierarchical structure. Areas with sparse data are informed by the global trend and neighboring units, while sample-rich areas remain driven by their own observations.
 
 :::: fig-box
 ```{=html}
@@ -699,7 +726,9 @@ Fig. 5 — Simulation of the Fay–Herriot (FH) effect. At low sample sizes, the
 :::
 ::::
 
-The core novelty of this project is the extension of the Fay–Herriot model into a spatio-temporal Bayesian framework tailored to forest inventory survey data. By leveraging 20 years of French National Forest Inventory data, the model captures smooth temporal dynamics and spatial dependence. This enables the estimation of fine-resolution posterior distributions over complete temporal trajectories, while avoiding reliance on coarse 5-year rolling averages commonly used in forest inventories.
+The core novelty of this project is the extension of small-area estimation models, such as Fay–Herriot, into a spatio-temporal Bayesian framework tailored to forest inventory data. Whereas model-assisted estimation depends on the acquisition and processing of high-quality remote sensing auxiliaries to improve precision, spatio-temporal smoothing offers an alternative source of information by borrowing strength from neighbouring areas and historical observations. This provides a broadly applicable framework for achieving precision gains using the inventory data itself, while remaining compatible with auxiliary remote sensing products when available rather than relying on them as the primary source of efficiency gains.
+
+Furthermore, by leveraging more than 20 years of French National Forest Inventory measurements, the proposed framework captures both spatial dependence and smooth temporal dynamics. This enables the estimation of fine-resolution posterior distributions and complete annual trajectories of forest attributes, while avoiding the coarse 5-year rolling averages commonly used in forest inventories.
 
 ::: callout-teal
 **This PhD project will evaluate the most efficient ways to borrow strength from NFI data to build fine resolution spatiotemporal maps for forest monitoring.**
@@ -781,27 +810,19 @@ Disturbance detection
 
 **All applications must include:**
 
-1.  A curriculum vitae
-2.  A motivation letter tailored to the subject
-3.  A list of relevant coursework, or alternatively an academic transcript for the last years of study (unofficial versions are accepted)
-4.  Contact details of two academic or professional references (name, affiliation, email)
+1.  A curriculum vitae,
+2.  A motivation letter tailored to the subject,
+3.  A list of relevant coursework, or alternatively an academic transcript for the last years of study (unofficial versions are accepted),
+4.  Contact details of two academic or professional references (name, affiliation, email).
 
 ------------------------------------------------------------------------
 
-IGN (a French governmental agency) ***requires all applications to be submitted through their official online system***. Applications sent via email will not be considered.  The official reference is not yet available but will be posted very soon.
-
-1.  Visit the [IGN job offers page](https://www.ign.fr/nous-rejoindre/offres-emploi).
-2.  Locate the offer with the proper reference \# **(available soon)**.
-3.  Click **"Je postule"** (French for "I apply") to begin submission process.
-
-***Note:*** The IGN application portal is in French only. If you need assistance, consider using a browser translation tool or contacting us directly for guidance.
-
-------------------------------------------------------------------------
-
-**For any questions**, applicants are highly encouraged to contact:
+**Applications should be sent directly to:**
 
 **Alexander Massey**\
 [alexander.massey\@ign.fr](mailto:alexander.massey@ign.fr)
+
+The French doctoral system can seem complex from an international perspective. All applicants are highly encouraged to contact LIF directly with any questions.  We’re happy to help!
 
 </details>
 
