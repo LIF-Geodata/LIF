@@ -417,7 +417,7 @@ details[open] summary::after {
 </style>
 ```
 
-# Bayesian Spatiotemporal Small Area Estimation for Forest Disturbance Monitoring
+# Bayesian Spatiotemporal Small Area Estimation for Forest Disturbance Monitoring (POSITION FILLED)
 **PhD Opportunity**
 
 <!-- ── HEADER / KEYWORDS ── -->
@@ -463,7 +463,7 @@ details[open] summary::after {
     </div>
     <div class="info-card">
       <div class="info-label">Application deadline</div>
-      <div class="info-val">Open until filled</div>
+      <div class="info-val">CLOSED</div>
     </div>
   </div>
 
